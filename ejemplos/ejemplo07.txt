@@ -7,3 +7,6 @@
 9.  Fin Mientras"
 10. << n
 11. Fin
+
+
+//Si se cumple la condicion por lo tanto pasa al ciclo por lo tanto lo que se presenta en pantalla es 3.
