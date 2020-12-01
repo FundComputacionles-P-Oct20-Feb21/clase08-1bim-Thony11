@@ -9,7 +9,7 @@
 9.  porcentaje, d[0,n]
 10. porcentaje <-- 20
 11. Escribir "Ingrese el valor mensual de Netflix"
-12. Lea valorNetflix
+12. Lea valorNetflix 
 13. Escribir "Ingrese el valor mensual de Youtube"
 14. Lea valorYoutube
 15. Escribir "Ingrese el valor mensual de Dropbox"
@@ -22,3 +22,7 @@
 22. Fin si
 23. Escribir "El valor total a pagar es: " + valorTotal
 24. Fin
+
+
+//En este caso no tenemos valor a edad caso contrario
+ quedaria asi si fuese mayor de edad---"El valor total a pagar es: 4.6
